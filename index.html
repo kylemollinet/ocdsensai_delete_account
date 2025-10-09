@@ -58,10 +58,52 @@
             border-radius: 8px;
             margin: 20px 0;
         }
+         .nav-bar {
+            background: #2c3e50;
+            padding: 15px 0;
+            margin: -40px -40px 30px -40px;
+            border-radius: 12px 12px 0 0;
+        }
+        .nav-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .nav-title {
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            margin: 0;
+        }
+        .nav-links {
+            display: flex;
+            gap: 20px;
+        }
+        .nav-link {
+            color: white;
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 6px;
+            transition: background-color 0.3s;
+        }
+        .nav-link:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>
     <div class="container">
+        <nav class="nav-bar">
+            <div class="nav-content">
+                <h2 class="nav-title">OCD SensAI</h2>
+                <div class="nav-links">
+                    <a href="support.html" class="nav-link">Support</a>
+                    <a href="index.html" class="nav-link">Home</a>
+                </div>
+            </div>
+        </nav>
+        
         <h1>Privacy Policy - OCD SensAI</h1>
         <p class="last-updated"><span class="bold">Last Updated:</span> October 2025</p>
         
