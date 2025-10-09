@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support - OCD SensAI</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #e74c3c;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+        .contact-info {
+            background: #ecf0f1;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        .faq {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+        .faq h3 {
+            color: #2c3e50;
+            margin-top: 0;
+        }
+        .email-link {
+            color: #e74c3c;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .email-link:hover {
+            text-decoration: underline;
+        }
+        .nav-bar {
+            background: #2c3e50;
+            padding: 15px 0;
+            margin: -40px -40px 30px -40px;
+            border-radius: 12px 12px 0 0;
+        }
+        .nav-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .nav-title {
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            margin: 0;
+        }
+        .nav-links {
+            display: flex;
+            gap: 20px;
+        }
+        .nav-link {
+            color: white;
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 6px;
+            transition: background-color 0.3s;
+        }
+        .nav-link:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+            text-decoration: none;
+        }
+        ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        li {
+            margin: 8px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav class="nav-bar">
+            <div class="nav-content">
+                <h2 class="nav-title">OCD SensAI</h2>
+                <div class="nav-links">
+                    <a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
+                    <a href="index.html" class="nav-link">Home</a>
+                </div>
+            </div>
+        </nav>
+        
+        <h1>Support - OCD SensAI</h1>
+        
+        <div class="contact-info">
+            <h2>Get Help</h2>
+            <p>We're here to help you get the most out of OCD SensAI. Reach out to us anytime!</p>
+            <p><strong>Email:</strong> <a href="mailto:ocdcompanion@gmail.com" class="email-link">ocdcompanion@gmail.com</a></p>
+            <p><strong>Response Time:</strong> We typically respond within 24-48 hours</p>
+        </div>
+
+        <h2>Frequently Asked Questions</h2>
+        
+        <div class="faq">
+            <h3>How do I delete my account and all my data?</h3>
+            <p>You can delete your account directly in the app:</p>
+            <ul>
+                <li>Go to the Account tab</li>
+                <li>Scroll down to find the "Delete Account" option</li>
+                <li>Follow the prompts to permanently delete all your data</li>
+            </ul>
+            <p>This will remove all your therapy data, chat history, and account information permanently.</p>
+        </div>
+
+        <div class="faq">
+            <h3>Is my data secure and private?</h3>
+            <p>Yes! We take your privacy seriously:</p>
+            <ul>
+                <li>All data is encrypted and stored securely</li>
+                <li>We use industry-standard security measures</li>
+                <li>Your data is never shared with third parties</li>
+                <li>You can delete all your data at any time</li>
+            </ul>
+        </div>
+
+        <div class="faq">
+            <h3>How does the AI therapy work?</h3>
+            <p>Our AI provides supportive, evidence-based responses to help you manage OCD symptoms. It's designed to complement professional therapy, not replace it. Always consult with qualified healthcare professionals for medical concerns.</p>
+        </div>
+
+        <div class="faq">
+            <h3>Can I use this app without an internet connection?</h3>
+            <p>Some features work offline, but you'll need an internet connection for:</p>
+            <ul>
+                <li>AI chat conversations</li>
+                <li>Syncing your progress data</li>
+                <li>Receiving push notifications</li>
+            </ul>
+        </div>
+
+        <div class="faq">
+            <h3>How do I reset my progress or start over?</h3>
+            <p>You can reset your progress by:</p>
+            <ul>
+                <li>Going to the Account tab</li>
+                <li>Looking for "Reset Progress" or "Start Over" option</li>
+                <li>Or delete your account and create a new one</li>
+            </ul>
+        </div>
+
+        <div class="faq">
+            <h3>I'm having technical issues. What should I do?</h3>
+            <p>Try these troubleshooting steps:</p>
+            <ul>
+                <li>Close and restart the app</li>
+                <li>Check your internet connection</li>
+                <li>Update to the latest version of the app</li>
+                <li>Restart your device</li>
+            </ul>
+            <p>If the problem persists, email us with details about the issue.</p>
+        </div>
+
+        <h2>What to Include in Your Support Request</h2>
+        <p>To help us assist you better, please include:</p>
+        <ul>
+            <li>Your device type and operating system version</li>
+            <li>App version (found in Account tab)</li>
+            <li>Description of the issue or question</li>
+            <li>Steps to reproduce the problem (if applicable)</li>
+            <li>Screenshots (if helpful)</li>
+        </ul>
+
+        <div class="contact-info">
+            <h2>Emergency Support</h2>
+            <p><strong>If you're experiencing a mental health crisis:</strong></p>
+            <ul>
+                <li><strong>US:</strong> Call 988 (Suicide & Crisis Lifeline)</li>
+                <li><strong>UK:</strong> Call 116 123 (Samaritans)</li>
+                <li><strong>International:</strong> Find local crisis resources</li>
+            </ul>
+            <p>OCD SensAI is not a replacement for emergency mental health services.</p>
+        </div>
+
+        <h2>Privacy & Data</h2>
+        <p>For questions about your data, privacy, or to request data deletion, please see our <a href="privacy-policy.html">Privacy Policy</a> or contact us directly.</p>
+    </div>
+</body>
+</html>
